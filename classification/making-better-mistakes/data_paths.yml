@@ -1,0 +1,3 @@
+tiered-imagenet-224: '/your/path/to/tieredImagenet-H'
+inaturalist19-224: '/media/deepstorage01/datasets_external/inaturalist/inaturalist19-224'
+
