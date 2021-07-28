@@ -1,0 +1,10 @@
+_BASE_: "../Base-RCNN-FPN.yaml"
+MODEL:
+  WEIGHTS: "detectron2://ImageNetPretrained/MSRA/R-50.pkl"
+  MASK_ON: False
+  RESNETS:
+    DEPTH: 50
+  RETINANET:
+    HIERARCHICAL_FOCAL_LOSS: True
+    HIERARCHICAL_LOSS_WEIGHTS: [0.8, 0.1, 0.1]
+    HIERARCHICAL_INCLUDE_ROOT: False

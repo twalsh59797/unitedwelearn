@@ -1,0 +1,5 @@
+==========================================
+Output of SLURM job 28088 on deepdriver05 with GPU ids: 5
+==========================================
++ python tide.py
+slurmstepd: error: *** JOB 28088 ON deepdriver05 CANCELLED AT 2020-11-16T12:53:40 ***

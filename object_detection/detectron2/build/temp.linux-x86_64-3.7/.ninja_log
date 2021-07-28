@@ -1,0 +1,14 @@
+# ninja log v5
+17	5130	1600419760	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/cuda_version.o	b1dbbb2ec7b9d493
+13	10066	1600419765	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	ab2242ef923be472
+13	11549	1600419766	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/cocoeval/cocoeval.o	3fba6b6712f8b86a
+13	11621	1600419766	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	48d0bedf38d98ca7
+12	14830	1600419769	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	28b992c0a6d40ed1
+12	15250	1600419770	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/ROIAlign/ROIAlign_cpu.o	f38b5369d312c407
+15	15321	1600419770	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	1f80411e3351e6cc
+14	15836	1600419770	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/ROIAlign/ROIAlign_cuda.o	1e13a1dd7dbe33db
+14	15838	1600419770	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	82650b6ac1b73b4
+16	16291	1600419771	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	d556967265caba17
+16	16476	1600419771	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	2752c1c6d59ee0b4
+15	19888	1600419774	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda.o	4b81a826caea1827
+11	31759	1600419786	/home/shkodran/detectron2/build/temp.linux-x86_64-3.7/home/shkodran/detectron2/detectron2/layers/csrc/vision.o	16a351ce33f923cf
